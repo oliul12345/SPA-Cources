@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "Image": "https://i.ibb.co/sP7VHpQ/Rectangle-2-2.png",
+    "Title": "Python Programming Masterclass",
+    "Paragraph": "Learn Python from scratch and become a Python expert in no time!",
+    "Price": 99.99,
+    "Time": 5,
+    "icon": "https://i.ibb.co/YNFQCHT/318291081-555756375979780-2368320589618664703-n.jpg",
+    "Button": "Enroll Now"
+  },
+  {
+    "id":"2",
+    "Image": "https://i.ibb.co/z7GMnyn/Rectangle-2-3.png",
+    "Title": "Web Development Bootcamp",
+    "Paragraph": "Build responsive websites and web applications with HTML, CSS, and JavaScript.",
+    "Price": 149.99,
+    "Time": 3,
+    "icon": "https://i.ibb.co/YNFQCHT/318291081-555756375979780-2368320589618664703-n.jpg",
+    "Button": "Enroll Now"
+    
+  },
+  {
+    "id":"3",
+    "Image": "https://i.ibb.co/s6Q2NLP/Rectangle-2-4.png",
+    "Title": "Java Programming Fundamentals",
+    "Paragraph": "Master the fundamentals of Java programming and start applications.",
+    "Price": 79.99,
+    "Time": 9,
+    "icon": "https://i.ibb.co/6tbcdCc/Rectangle-3.png",
+    "Button": "Enroll Now"
+  },
+  {
+    "id":"4",
+    "Image": "https://i.ibb.co/6XJ58mC/Rectangle-2.png",
+    "Title": "Data Science with Python",
+    "Paragraph": "Unlock the power of data science using Python and machine learning.",
+    "Price": 129.99,
+    "Time": 8,
+    "icon": "https://i.ibb.co/YNFQCHT/318291081-555756375979780-2368320589618664703-n.jpg",
+    "Button": "Enroll Now"
+  },
+  {
+    "id":"5",
+    "Image": "https://i.ibb.co/L1PFPW3/Rectangle-2-5.png",
+    "Title": "JavaScript for Beginners",
+    "Paragraph": "Start your journey into web development with JavaScript.",
+    "Price": 69.99,
+    "Time": 3,
+    "icon": "https://i.ibb.co/YNFQCHT/318291081-555756375979780-2368320589618664703-n.jpg",
+    "Button": "Enroll Now"
+  },
+  {
+    "id":"6",
+    "Image": "https://i.ibb.co/4Y0N4y0/5673721.jpg",
+    "Title": "C++ Game Development",
+    "Paragraph": "Create interactive games using C++ and game development libraries.",
+    "Price": 159.99,
+    "Time": 4,
+    "icon": "https://i.ibb.co/YNFQCHT/318291081-555756375979780-2368320589618664703-n.jpg",
+    "Button": "Enroll Now"
+  },
+  {
+    "id":"7",
+    "Image": "https://i.ibb.co/GC6xY2Z/Rectangle-3-1.png",
+    "Title": "Android App Development",
+    "Paragraph": "Build Android apps and publish them on the Google Play Store.",
+    "Price": 129.99,
+    "Time": 8,
+    "icon": "https://i.ibb.co/YNFQCHT/318291081-555756375979780-2368320589618664703-n.jpg",
+    "Button": "Enroll Now"
+  },
+  {
+    "id":"8",
+    "Image": "https://i.ibb.co/nm12dgJ/Rectangle-2-1.png",
+    "Title": "Full Stack Web Development",
+    "Paragraph": "Become a full stack developer and create dynamic web applications.",
+    "Price": 199.99,
+    "Time": 16,
+    "icon": "https://i.ibb.co/YNFQCHT/318291081-555756375979780-2368320589618664703-n.jpg",
+    "Button": "Enroll Now"
+  },
+  {
+    "id":"9",
+    "Image": "https://i.ibb.co/BKtbpwf/Rectangle-2-6.png",
+    "Title": "Machine Learning with TensorFlow",
+    "Paragraph": "Dive deep into machine learning with TensorFlow and neural networks.",
+    "Price": 149.99,
+    "Time":5,
+    "icon": "https://i.ibb.co/YNFQCHT/318291081-555756375979780-2368320589618664703-n.jpg",
+    "Button": "Enroll Now"
+  }
+]
